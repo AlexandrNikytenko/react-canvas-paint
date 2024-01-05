@@ -1,6 +1,5 @@
 {
   "name": "react-canvas-paint",
-  "homepage": "https://oleksandrni.github.io/react-canvas-paint/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

@@ -1,1 +1,1 @@
-[DEMO REACT-CANVAS-PAINT](https://oleksandrni.github.io/react-canvas-paint/)
+[DEMO REACT-CANVAS-PAINT](https://AlexandrNikytenko.github.io/react-canvas-paint/)
